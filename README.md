@@ -5,6 +5,7 @@
 ### Main Personal Tech Stack
 ![.NET](https://img.shields.io/badge/%20-.NET-%23512BD4?logo=.net&logoColor=white&style=for-the-badge)
 ![Azure](https://img.shields.io/badge/%20-Azure-%230078D4?logo=microsoft%20azure&logoColor=white&style=for-the-badge)
+![Jamstack](https://img.shields.io/badge/%20-Jamstack-%23F0047F?logo=jamstack&logoColor=white&style=for-the-badge)
 ![HTML5](https://img.shields.io/badge/%20-HTML5-%23E34F26?logo=html5&logoColor=white&style=for-the-badge)
 ![JavaScript](https://img.shields.io/badge/%20-JavaScript-%23F7DF1E?logo=javascript&logoColor=white&style=for-the-badge)
 
