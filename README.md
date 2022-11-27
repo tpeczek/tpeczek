@@ -11,8 +11,9 @@
 
 ---
 ### Connect With Me
-[![Twitter](https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/tpeczek)
-[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tpeczek)
 [![Blog](https://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge)](https://www.tpeczek.com/)
+[![Twitter](https://img.shields.io/badge/%20-Twitter-%231DA1F2?logo=twitter&logoColor=white&style=for-the-badge)](https://twitter.com/tpeczek)
+[![Mastodon](https://img.shields.io/badge/%20-Mastodon-%236364FF?logo=mastodon&logoColor=white&style=for-the-badge)](https://hachyderm.io/@tpeczek)
+[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tpeczek)
 [![YouTube](https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCjqcHDB_c2J3BwVfd-1ysFw)
 [![Stack Overflow](https://img.shields.io/badge/%20-Stack%20Overflow-%23F58025?logo=stack%20overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/333253/tpeczek)
