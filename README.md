@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Tomasz Pęczek</h1>
-<h3 align="center">Software Developer & Architect • Blogger • Speaker • OSS Contributor • Microsoft MVP</h3>
+<h3 align="center">Staff+ Engineer • Cloud Solutions Architect & Consultant • Technical Blogger & Speaker • Microsoft MVP</h3>
 
 ---
 ### Main Personal Tech Stack
