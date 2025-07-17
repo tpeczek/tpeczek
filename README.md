@@ -18,3 +18,10 @@
 [![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tpeczek)
 [![YouTube](https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCjqcHDB_c2J3BwVfd-1ysFw)
 [![Stack Overflow](https://img.shields.io/badge/%20-Stack%20Overflow-%23F58025?logo=stack%20overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/333253/tpeczek)
+
+---
+### Consulting and Professional Services
+Do you need help with any of my libraries, or with building features on top of what they provide? What about ASP.NET Core architecture, Azure architecture, or DevOps? I offer consulting and development services.
+
+[![Book an Appointment](https://img.shields.io/badge/%20-Book%20an%20Appointment-%23006BFF?logo=calendly&logoColor=white&style=for-the-badge)](https://calendly.com/tpeczek/30min)
+[![Send an Email](https://img.shields.io/badge/%20-Send%20an%20email-%23EA4335?logo=gmail&logoColor=white&style=for-the-badge)](mailto:tpeczek@gmail.com)
