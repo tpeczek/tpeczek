@@ -21,7 +21,7 @@
 
 ---
 ### Consulting and Professional Services
-Do you need help with any of my libraries, or with building features on top of what they provide? What about ASP.NET Core architecture, Azure architecture, or DevOps? I offer paid support and consulting services.
+Do you need help with any of my libraries, or with building features on top of what they provide? I offer paid support and consulting services.
 
 <p align="center">
 <img alt="Services provided by Tomasz Pęczek" src="https://github.com/user-attachments/assets/0f9793d8-4766-4a6f-9824-c0e7fec904b2" />
