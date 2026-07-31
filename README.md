@@ -1,5 +1,5 @@
 <h1 align="center">Hi there 👋, I'm Tomasz Pęczek</h1>
-<h3 align="center">Fractional Staff+ Engineer • Fractional CTO • CTO Advisor • Cloud and Software Architecture Facilitator • Microsoft MVP</h3>
+<h3 align="center">Fractional CTO Advisor & Staff+ Engineer • Helping CTOs eliminate delivery friction, avoid expensive architecture mistakes, and build engineering practices that help teams ship confidently • Microsoft MVP</h3>
 
 ---
 ### Main Personal Tech Stack
@@ -11,17 +11,17 @@
 
 ---
 ### Connect With Me
+[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tpeczek)
 [![Blog](https://img.shields.io/badge/%20-Blog-%23FF5722?logo=blogger&logoColor=white&style=for-the-badge)](https://www.tpeczek.com/)
 [![Bluesky](https://img.shields.io/badge/%20-Bluesky-%231DA1F2?logo=bluesky&logoColor=white&style=for-the-badge)](https://bsky.app/profile/tpeczek.bsky.social)
-[![X](https://img.shields.io/badge/%20-X-%23000000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/tpeczek)
 [![Mastodon](https://img.shields.io/badge/%20-Mastodon-%236364FF?logo=mastodon&logoColor=white&style=for-the-badge)](https://hachyderm.io/@tpeczek)
-[![LinkedIn](https://img.shields.io/badge/%20-LinkedIn-%230A66C2?logo=linkedin&logoColor=white&style=for-the-badge)](https://www.linkedin.com/in/tpeczek)
+[![X](https://img.shields.io/badge/%20-X-%23000000?logo=x&logoColor=white&style=for-the-badge)](https://twitter.com/tpeczek)
 [![YouTube](https://img.shields.io/badge/%20-YouTube-%23FF0000?logo=youtube&logoColor=white&style=for-the-badge)](https://www.youtube.com/channel/UCjqcHDB_c2J3BwVfd-1ysFw)
 [![Stack Overflow](https://img.shields.io/badge/%20-Stack%20Overflow-%23F58025?logo=stack%20overflow&logoColor=white&style=for-the-badge)](https://stackoverflow.com/users/333253/tpeczek)
 
 ---
 ### Consulting and Professional Services
-Do you need help with any of my libraries, or with building features on top of what they provide? I offer paid support and consulting services.
+I work with CTOs and founders who need experienced technical leadership without adding a full-time staff+ engineer. I help engineering organizations improve how they design systems, make technical decisions, and deliver software by combining pragmatic architecture, modern engineering practices, and decision-making frameworks. My focus is on creating delivery foundations that help teams ship with confidence while avoiding the expensive architectural mistakes that slow growth later.
 
 <p align="center">
 <img alt="Services provided by Tomasz Pęczek" src="https://github.com/user-attachments/assets/0f9793d8-4766-4a6f-9824-c0e7fec904b2" />
