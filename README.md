@@ -24,7 +24,7 @@
 I work with CTOs and founders who need experienced technical leadership without adding a full-time staff+ engineer. I help engineering organizations improve how they design systems, make technical decisions, and deliver software by combining pragmatic architecture, modern engineering practices, and decision-making frameworks. My focus is on creating delivery foundations that help teams ship with confidence while avoiding the expensive architectural mistakes that slow growth later.
 
 <p align="center">
-<img alt="Services provided by Tomasz Pęczek" src="https://github.com/user-attachments/assets/0f9793d8-4766-4a6f-9824-c0e7fec904b2" />
+<img alt="Core Services" src="https://github.com/user-attachments/assets/520506fb-4bf3-45bf-b9e1-529ec285fa60" />
 </p>
 
 [![Book an Appointment](https://img.shields.io/badge/%20-Book%20an%20Appointment-%23006BFF?logo=calendly&logoColor=white&style=for-the-badge)](https://calendly.com/tpeczek/30min)
